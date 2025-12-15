@@ -1,0 +1,7 @@
+baseURL: https://flankstaek.me
+languageCode: en-us
+title: ian
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

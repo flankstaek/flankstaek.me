@@ -1,0 +1,35 @@
+{{ define "title" }}
+<title>{{ .Title }} | ian</title>
+{{ end }}
+
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ with .Content }}
+<div class="text">
+    {{ . }}
+</div>
+{{ end }}
+
+<div class="link-list">
+    {{ range .Pages }}
+    <div class="blog-post-item">
+        <a href="{{ .Permalink }}">
+            <span class="post-title">{{ .Title }}</span>
+            <time class="post-date" datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+        </a>
+        {{ if .Summary }}
+        <div class="post-summary">
+            {{ .Summary }}
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+
+<div class="footer">
+    <a href="/">Return Home</a>
+</div>
+{{ end }}
