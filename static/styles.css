@@ -304,6 +304,18 @@ div.box-text {
     font-style: italic;
 }
 
+.post-content img {
+    max-width: 100%;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 .post-navigation {
     display: flex;
     justify-content: space-between;
@@ -363,6 +375,17 @@ div.box-text {
     font-size: 14px;
     margin-top: 10px;
     line-height: 1.5;
+}
+
+.post-summary img {
+    max-width: 100%;
+    max-height: 250px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
 }
 
 .blog-post-item:hover {
