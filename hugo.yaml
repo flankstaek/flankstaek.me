@@ -1,6 +1,9 @@
-baseURL: https://flankstaek.me
+baseURL: https://flankstaek.me/
 languageCode: en-us
 title: ian
+disableKinds: []
+canonifyURLs: false
+relativeURLs: false
 markup:
   goldmark:
     renderer:
