@@ -136,11 +136,11 @@ div.box-text {
     font-size: 14px;
 }
 
-/* Blog Styles */
 .blog-post {
     max-width: 800px;
-    margin: 0 auto;
-    padding: 40px 20px;
+    margin: 40px auto;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
 .blog-post h1 {
@@ -172,14 +172,14 @@ div.box-text {
     display: inline-block;
     margin: 0 5px;
     padding: 2px 8px;
-    background-color: rgba(92, 82, 173, 0.1);
+    background-color: rgba(0, 0, 0, 0.1);
     border-radius: 3px;
     text-decoration: none;
     font-size: 12px;
 }
 
 .post-tags .tag:hover {
-    background-color: rgba(92, 82, 173, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 .post-content {
@@ -297,12 +297,11 @@ div.box-text {
     text-decoration: underline;
 }
 
-/* Blog List Styles */
 .blog-post-item {
     margin: 30px auto;
     max-width: 700px;
     padding: 20px;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.2);
     border-radius: 5px;
 }
 
@@ -334,6 +333,15 @@ div.box-text {
     line-height: 1.5;
 }
 
+.post-summary h1 {
+    font-size: 32px;
+    padding-top: 0;
+}
+
+.post-summary h2 {
+    padding: 0;
+}
+
 .post-summary img {
     max-width: 100%;
     max-height: 250px;
@@ -346,7 +354,7 @@ div.box-text {
 }
 
 .blog-post-item:hover {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.4);
 }
 
 @media screen and (max-width: 1024px) {

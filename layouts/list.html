@@ -22,7 +22,9 @@
         </a>
         {{ if .Summary }}
         <div class="post-summary">
+            <a href="{{ .Permalink }}">
             {{ .Summary }}
+            </a>
         </div>
         {{ end }}
     </div>
