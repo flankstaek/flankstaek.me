@@ -5,81 +5,38 @@ body {
     flex-direction: column;
 }
 
-@media screen and (min-width: 1000px) {
-    h1 {
-        text-align: center;
-        font-family: Montserrat;
-        font-size: 60px;
-        font-weight: 400;
-        padding-top: 5%;
-    }
-
-    div.text {
-        text-align: center;
-        font-family: Inconsolata;
-        font-size: 16px;
-        color: inherit;
-        padding: 0 27%;
-    }
-
-    h2 {
-        text-align: center;
-        font-family: Montserrat;
-        font-size: 22px;
-        font-weight: 400;
-        padding-top: 10%;
-        padding-bottom: 3%;
-    }
-
-    div.link-list {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        font-family: Inconsolata;
-        font-size: 22px;
-        color: inherit;
-        min-height: 60vh;
-    }
+h1 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 60px;
+    font-weight: 400;
+    padding-top: 5%;
 }
 
-@media screen and (max-width: 999px) {
-    h1 {
-        text-align: center;
-        font-family: Montserrat;
-        font-size: 120px;
-        font-weight: 400;
-        padding-top: 8%;
-    }
+div.text {
+    text-align: center;
+    font-family: Inconsolata;
+    font-size: 16px;
+    color: inherit;
+}
 
-    div.text {
-        text-align: center;
-        font-family: Inconsolata;
-        font-size: 30px;
-        color: inherit;
-    }
+h2 {
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 400;
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
 
-    h2 {
-        text-align: center;
-        font-family: Montserrat;
-        font-size: 65px;
-        font-weight: 400;
-        padding-top: 10%;
-        padding-bottom: 8%;
-    }
-
-    a.header-link {
-        padding: 0 12px;
-    }
-
-    div.link-list {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        font-family: Inconsolata;
-        font-size: 55px;
-        color: inherit;
-        min-height: 60vh;
-    }
+div.link-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Inconsolata;
+    font-size: 22px;
+    color: inherit;
+    min-height: 60vh;
 }
 
 a.link {
@@ -392,7 +349,45 @@ div.box-text {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 1024px) {
+    h1 {
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 120px;
+        font-weight: 400;
+        padding-top: 4%;
+    }
+
+    div.text {
+        text-align: center;
+        font-family: Inconsolata;
+        font-size: 24px;
+        color: inherit;
+    }
+
+    h2 {
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 60px;
+        font-weight: 400;
+        padding-top: 10%;
+        padding-bottom: 8%;
+    }
+
+    a.header-link {
+        padding: 0 12px;
+    }
+
+    div.link-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Inconsolata;
+        font-size: 55px;
+        color: inherit;
+        min-height: 60vh;
+    }
+
     .blog-post h1 {
         font-size: 48px;
     }
@@ -412,5 +407,17 @@ div.box-text {
     .post-navigation {
         flex-direction: column;
         gap: 15px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    h1 {
+        font-size: 90px;
+    }
+    h2 {
+        font-size: 40px;
+    }
+    a.header-link {
+        padding: 0;
     }
 }
