@@ -6,5 +6,8 @@ canonifyURLs: false
 relativeURLs: false
 markup:
   goldmark:
+    renderHooks:
+      link:
+        useEmbedded: auto
     renderer:
       unsafe: true
