@@ -1,9 +1,7 @@
 ---
-categories: cocktails stirred
-date: '2019-10-27T12:00:00Z'
-keywords: falernum rum fernet branca fernet-branca stirred bitter digestif cocktail apertif
-tags: fernet branca fernet-branca rum old fashioned stirred falernum golden velvet digestif apertif bitter
 title: A Bitter Breeze
+date: '2019-10-27T12:00:00Z'
+tags: cocktails
 ---
 The Bitter Breeze is an original cocktail designed to be a bitter digestif with a kick. It is rich, herbal and bitter, with a velvet-y sweetness underneath. I, personally, opt for stirring the cocktail but it could also be assembled like an old-fashioned in the glass.
 

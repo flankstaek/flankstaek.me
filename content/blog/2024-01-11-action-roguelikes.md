@@ -1,8 +1,7 @@
 ---
-categories: personal rant
-date: '2024-01-11T21:45:00Z'
-tags: videogames
 title: Action Roguelikes Rant
+date: '2024-01-11T21:45:00Z'
+tags: games
 ---
 As somebody that generally enjoys both action games and especially roguelikes, I am familiar with the frequent discourse around what is or is not a roguelike/lite. Instead of joining that discourse, instead, I am here to be an angry person on the internet in a different direction.
 

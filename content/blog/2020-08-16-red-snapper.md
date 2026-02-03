@@ -1,9 +1,7 @@
 ---
-categories: cocktails shaken
-date: '2020-08-16T12:00:00Z'
-keywords: cocktail  brunch gin recipe bloody mary bloody-mary red-snapper red snapper
-tags: gin tomato
 title: The Red Snapper
+date: '2020-08-16T12:00:00Z'
+tags: cocktails
 ---
 A Red Snapper cocktail is typically considered a Bloody Mary made with Gin. Originally it was just another name for a Bloody Mary but at some point the distinction between Vodka & Gin was made.
 

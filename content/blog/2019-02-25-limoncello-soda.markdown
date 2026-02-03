@@ -1,7 +1,6 @@
 ---
 categories: cocktails low-proof
 date: '2019-02-25T14:00:00Z'
-keywords: limoncello soda cocktail recipe liquor liqueur lemon low-proof low-alcohol low alcohol
 tags: limoncello soda lemon day-drinking
 title: Limoncello Soda Recipe
 ---

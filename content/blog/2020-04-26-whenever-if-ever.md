@@ -1,9 +1,7 @@
 ---
-categories: music
-date: '2020-04-26T20:00:00Z'
-keywords: the world is a beautiful place and i am no longer afraid to die twiabp whenever if ever emo
-tags: music twiabp retrospective
 title: Whenever, If Ever
+date: '2020-04-26T20:00:00Z'
+tags: music
 ---
 
 As we approach 7 years after the release of Whenever, If Ever and the subsequent rise of The World Is A Beautiful Place & I Am No Longer Afraid To Die I decided to write about some recent feelings I'd been having.

@@ -1,7 +1,6 @@
 ---
 categories: development
 date: '2019-10-08T12:00:00Z'
-keywords: unity gamecube controller gcc gc gamedev game development tutorial
 tags: unity gamecube controller gamedev game development
 title: How to use a Gamecube Controller with Unity
 ---

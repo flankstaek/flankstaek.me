@@ -1,7 +1,6 @@
 ---
 categories: development
 date: '2018-10-23T12:00:00Z'
-keywords: react-native react native web development web-development katex component display
 tags: react-native web-development react
 title: Displaying KaTeX in React Native
 ---

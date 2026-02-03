@@ -1,8 +1,7 @@
 ---
-categories: year review personal
-date: '2021-01-02T17:30:00Z'
-tags: 2020
 title: 2020 Year in Review
+date: '2021-01-02T17:30:00Z'
+tags: year-review
 ---
 I did a lot less of everything than I'd have liked to in 2020, but I did manage to do some things I enjoyed and I'd like to document them. I know it's a few days late but better late than never I guess.
 

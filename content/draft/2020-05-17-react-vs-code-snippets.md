@@ -2,7 +2,6 @@
 categories: development
 date: '2020-05-17T09:00:00Z'
 draft: true
-keywords: react vscode vs code vs-code snippet templates componenets
 tags: react vscode web-development
 title: VSCode Snippets For React
 ---
